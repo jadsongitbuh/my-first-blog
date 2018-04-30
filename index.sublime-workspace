@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"carr",
+				"carros"
+			],
+			[
+				"pess",
+				"pessoa2"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"s",
+				"standFont\tstatement"
+			],
+			[
+				"dir",
+				"dircFuncionarios\tstatement"
+			],
+			[
+				"i",
+				"id\tstatement"
+			],
+			[
+				"f",
+				"Funcionario"
+			],
+			[
+				"pa",
+				"pack"
+			],
+			[
+				"aute",
+				"Autenticar"
+			],
+			[
+				"lb",
+				"lbMensagem\tstatement"
+			],
+			[
+				"in",
+				"inPass\tstatement"
+			],
+			[
+				"Au",
+				"Auth"
+			],
+			[
+				"__",
+				"__class__"
+			],
+			[
+				"se",
+				"seq"
+			],
+			[
+				"no",
+				"None"
+			],
+			[
+				"fun",
+				"Funcionario\tclass"
+			],
+			[
+				"name",
+				"inName"
+			],
+			[
+				"en",
+				"EnvironmentError\tclass"
+			],
+			[
+				"L",
+				"LEFT\tstatement"
+			],
+			[
+				"for",
+				"forContainer\tstatement"
+			],
+			[
+				"B",
+				"BOTTOM\tstatement"
+			],
+			[
+				"RI",
+				"RADIOBUTTON\tstatement"
+			],
+			[
+				"lm",
+				"lMsg2\tstatement"
+			],
+			[
+				"la",
+				"Label\tclass"
+			],
+			[
+				"C",
+				"changeTextLabel\tfunction"
+			],
+			[
+				"ms",
+				"msg2\tstatement"
+			],
+			[
+				"we",
+				"widget2\tstatement"
+			],
+			[
+				"weg",
+				"widget2"
+			],
+			[
+				"w",
+				"widget1\tstatement"
+			],
+			[
+				"m",
+				"mainloop\tfunction"
+			],
+			[
+				"sy",
+				"system\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/MEAN/MyProject/scripts.js",
+		"/C/MEAN/MyProject/index.html",
+		"/C/MEAN/MyProject/teste.js",
+		"/C/MEAN/MyProject/teste.html",
+		"/C/MEAN/MyProject/teste.css",
+		"/C/Users/pc/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/python/UserScripts/listObj.py",
+		"/C/python/UserScripts/facebookAPIscp.py",
+		"/C/python/Lib/tkinter/ttk.py",
+		"/C/python/Lib/tkinter/colorchooser.py",
+		"/C/python/Lib/tkinter/dnd.py",
+		"/C/python/Lib/tkinter/dialog.py",
+		"/C/python/Lib/tkinter/constants.py",
+		"/C/python/Lib/tkinter/commondialog.py",
+		"/C/python/Lib/tkinter/__main__.py",
+		"/C/python/Lib/tkinter/__init__.py",
+		"/C/python/Lib/tkinter/simpledialog.py",
+		"/C/Users/pc/djangogirls/mysite/urls.py",
+		"/C/Users/pc/djangogirls/blog/admin.py",
+		"/C/Users/pc/djangogirls/blog/models.py",
+		"/C/Users/pc/djangogirls/mysite/settings.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
